@@ -5,7 +5,7 @@ on:
     branches:
       - main
       - dev        # 你可以在這裡加上你想觸發的其他分支
-      - 'feature/*' # 甚至支援萬用字元，例如 feature/login
+       # 甚至支援萬用字元，例如 feature/login
 
 jobs: 
   test:
