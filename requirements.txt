@@ -1,3 +1,5 @@
 # requirements.txt
 flask
 pytest
+pymysql
+cryptography
